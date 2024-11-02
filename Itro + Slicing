@@ -4,6 +4,9 @@ Qualification = input("Enter your Qualification: ")
 print("My name is ", name)
 print("My age is ", age)
 print("My qualification is ", Qualification)
+My name is  Sarim
+My age is  18
+My qualification is  Matric
 
 Even Number Slicing
 number = "123456789"
