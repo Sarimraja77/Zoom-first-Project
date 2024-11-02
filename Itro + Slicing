@@ -1,0 +1,10 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+Qualification = input("Enter your Qualification: ")
+print("My name is ", name)
+print("My age is ", age)
+print("My qualification is ", Qualification)
+
+Even Number Slicing
+number = "123456789"
+print(number[1::2])
